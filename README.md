@@ -1,4 +1,4 @@
-## Hello There!
+## 👋 Hello There!
 
 I'm just a casual student who loves technology, especially software related.
 
